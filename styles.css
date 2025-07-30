@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+.bigContainer{
+	width:1100px;
+	height:1100px;
+	background-color:lightgray;
+}
+
+.container{
+	width:800px;
+	height:400px;
+}
+.imageContainer{
+	width:500px;
+	height:300px;
+}
+
+table{
+	width:800px;
+}
+table,th,td{
+	border-collapse:collapse;
+	border:1px solid black;
+}
+
+.column1{
+	width:200px;
+}
+
+.columnmid{
+	width:600px;
+	height:60px;
+	text-align:center;
+	
+}
+.rowcol{
+	width:200px;
+	height:400px;
+	padding:2px;
+}
+
+.colimg1{
+	width:150px;
+	height:100px;
+	
+}
+
+
