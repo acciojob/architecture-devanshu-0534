@@ -12,10 +12,14 @@
 .imageContainer{
 	width:500px;
 	height:300px;
+	margin:20px;
+	padding:10px;
 }
 
 table{
 	width:800px;
+	margin:20px;
+	padding:10px;
 }
 table,th,td{
 	border-collapse:collapse;
